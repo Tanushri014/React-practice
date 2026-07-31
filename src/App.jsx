@@ -1,5 +1,6 @@
 
 import './App.css'
+import Counter from './componets/Counter'
 import StudentCard from './componets/StudentCard'
 
 function App() {
@@ -7,8 +8,8 @@ function App() {
 
   return (
     <div>
-     <StudentCard/>
-
+     {/* <StudentCard/> */}
+<Counter/>
     </div>
   )
 }

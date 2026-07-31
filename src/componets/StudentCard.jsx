@@ -1,3 +1,20 @@
+// 🟢 Level 1 – Components & JSX
+// Task 1: Student Information Card
+
+// Create a card that displays:
+
+// Name
+// Branch
+// Year
+// CGPA
+// College
+
+// Concepts: Components, JSX, CSS
+
+
+
+
+
 function StudentCard(){
     return(
 <div className="outer">

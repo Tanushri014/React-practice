@@ -1,3 +1,16 @@
+// Task 2: Counter App
+
+// Features:
+
+// Increment
+// Decrement
+// Reset
+// Don't allow negative numbers
+
+// Concepts: useState
+
+
+
 
 import { useState } from "react";
 

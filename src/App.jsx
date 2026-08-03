@@ -10,6 +10,7 @@ import StudentList from './componets/StudentList'
 import TempConverter from './componets/TempConverter'
 import Theme from './componets/Theme'
 import Todo from './componets/Todo'
+import ShoppingCart from './componets/ShoppingCart'
 
 function App() {
  
@@ -25,7 +26,8 @@ function App() {
 {/* <TempConverter/> */}
 {/* <Todo/> */}
 {/* <SearchFilter/> */}
-<StudentList/>
+{/* <StudentList/> */}
+<ShoppingCart/>
     </div>
   )
 }
